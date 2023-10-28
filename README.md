@@ -92,28 +92,30 @@ plt.show()
 
 # OUPUT
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165130.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165154.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165219.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165238.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165255.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165319.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165334.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165425.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165441.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165501.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165515.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165530.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165544.png)
+
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165603.png)
