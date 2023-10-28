@@ -91,7 +91,7 @@ plt.show()
 
 
 # OUPUT
-
+```
 ![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165130.png)
 
 ![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex-09/blob/main/Screenshot%202023-10-28%20165154.png)
